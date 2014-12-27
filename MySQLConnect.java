@@ -24,7 +24,7 @@ public class MySQLConnect {
 	 *            "http://semardev.com/".
 	 */
 	public MySQLConnect(String site) {
-		this.site = site;
+		this.site = site + "/php_files/";
 	}
 
 	/**
